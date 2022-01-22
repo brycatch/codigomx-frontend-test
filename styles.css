@@ -1,0 +1,12 @@
+.nav-wrapper {
+  position: fixed;
+  padding: 0px 32px;
+}
+
+.list-users {
+  padding-top: 64px;
+}
+
+.form-users {
+  padding-top: 86px;
+}
