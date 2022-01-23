@@ -4,9 +4,11 @@
 }
 
 .list-users {
-  padding-top: 64px;
+  /* padding-top: 64px; */
+  padding: 64px;
 }
 
 .form-users {
-  padding-top: 86px;
+  padding: 86px 64px 0 64px;
+  /* padding-top: 86px; */
 }
